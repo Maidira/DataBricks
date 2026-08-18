@@ -1,0 +1,106 @@
+store_id,store_name,city,state,region,store_type,opening_date,store_status
+31,RetailHub Bhubaneswar 31,Bhubaneswar,Odisha,East,Express,2024-10-10,Inactive
+66,RetailHub Ahmedabad 66,Ahmedabad,Gujarat,West,Mall,2019-06-06,Active
+65,RetailHub Kolkata 65,Kolkata,West Bengal,East,Express,2025-07-20,Inactive
+54,RetailHub Chennai 54,Chennai,Tamil Nadu,South,Mall,2023-07-17,Active
+46,RetailHub Bhubaneswar 46,Bhubaneswar,Odisha,East,Mall,2018-05-30,Inactive
+95,RetailHub Bangalore 95,Bangalore,Karnataka,South,Express,2018-11-12,Inactive
+45,RetailHub Chandigarh 45,Chandigarh,Chandigarh,North,Mall,2022-12-16,Active
+48,RetailHub Kochi 48,Kochi,Kerala,South,Standalone,2023-05-15,Active
+11,RetailHub Pune 11,Pune,Maharashtra,West,Express,2020-07-17,Active
+1,RetailHub Patna 1,Patna,Bihar,East,Mall,2022-10-30,Active
+19,RetailHub Ahmedabad 19,Ahmedabad,Gujarat,West,Mall,2019-12-25,Inactive
+32,RetailHub Jaipur 32,Jaipur,Rajasthan,North,Mall,2021-10-12,Active
+90,RetailHub Kochi 90,Kochi,Kerala,South,Standalone,2025-09-07,Inactive
+97,RetailHub Hyderabad 97,Hyderabad,Telangana,South,Mall,2024-08-13,Inactive
+78,RetailHub Lucknow 78,Lucknow,Uttar Pradesh,North,Standalone,2021-06-01,Inactive
+5,RetailHub Bhopal 5,Bhopal,Madhya Pradesh,Central,Express,2018-01-21,Inactive
+81,RetailHub Lucknow 81,Lucknow,Uttar Pradesh,North,Express,2023-09-26,Inactive
+34,RetailHub Bangalore 34,Bangalore,Karnataka,South,Express,2023-05-20,Inactive
+13,RetailHub Jaipur 13,Jaipur,Rajasthan,North,Standalone,2025-05-13,Inactive
+27,RetailHub Bangalore 27,Bangalore,Karnataka,South,Mall,2018-09-11,Active
+100,RetailHub Chandigarh 100,Chandigarh,Chandigarh,North,Standalone,2021-10-14,Active
+56,RetailHub Hyderabad 56,Hyderabad,Telangana,Unknown,Mall,2022-10-08,Inactive
+23,RetailHub Pune 23,Pune,Maharashtra,West,Express,2023-01-09,Inactive
+77,RetailHub Lucknow 77,Lucknow,Uttar Pradesh,North,Express,2025-03-18,Inactive
+45,RetailHub Chandigarh 45,Chandigarh,Chandigarh,North,Mall,2022-12-16,Active
+73,RetailHub Delhi 73,Delhi,Delhi,North,Mall,2023-10-21,Inactive
+16,RetailHub Pune 16,Pune,Maharashtra,West,Express,2022-01-10,Inactive
+43,RetailHub Pune 43,Pune,Maharashtra,West,Mall,2018-05-06,Inactive
+41,RetailHub Bhopal 41,Bhopal,Madhya Pradesh,Central,Mall,2024-02-07,Inactive
+10,RetailHub Pune 10,Pune,Maharashtra,West,Standalone,2020-09-13,Active
+86,RetailHub Patna 86,Patna,Bihar,East,Mall,2022-12-22,Active
+12,RetailHub Ahmedabad 12,Ahmedabad,Gujarat,West,Standalone,2018-07-31,Inactive
+46,RetailHub Bhubaneswar 46,Bhubaneswar,Odisha,East,Mall,2018-05-30,Inactive
+79,RetailHub Kochi 79,Kochi,Kerala,South,Standalone,2025-12-27,Inactive
+29,RetailHub Hyderabad 29,Hyderabad,Telangana,South,Standalone,2019-07-27,Inactive
+80,RetailHub Hyderabad 80,Hyderabad,Telangana,South,Standalone,2024-04-14,Active
+6,RetailHub Delhi 6,Delhi,Delhi,North,Express,2018-01-05,Active
+63,RetailHub Patna 63,Patna,Bihar,East,Express,2025-02-17,Active
+57,RetailHub Patna 57,Patna,Bihar,East,Express,2024-02-29,Inactive
+40,RetailHub Chennai 40,Chennai,Tamil Nadu,South,Mall,2025-04-05,Inactive
+36,RetailHub Pune 36,Pune,Maharashtra,West,Standalone,2021-09-07,Active
+17,RetailHub Patna 17,Patna,Bihar,East,Express,2024-10-24,Active
+67,RetailHub Jaipur 67,Jaipur,Rajasthan,North,Express,2020-03-04,Active
+35,RetailHub Mumbai 35,Mumbai,Maharashtra,West,Express,2019-09-29,Active
+8,RetailHub Hyderabad 8,Hyderabad,Telangana,South,Mall,2024-07-19,Inactive
+44,RetailHub Bhopal 44,Bhopal,Madhya Pradesh,Central,Mall,2018-07-30,Inactive
+69,RetailHub Lucknow 69,Lucknow,Uttar Pradesh,North,Standalone,2019-06-08,Active
+70,RetailHub Kolkata 70,Kolkata,West Bengal,East,Express,2025-03-15,Active
+28,RetailHub Jaipur 28,Jaipur,Rajasthan,North,Mall,2025-10-28,Active
+20,RetailHub Patna 20,Patna,Bihar,East,Express,2024-10-13,Active
+85,RetailHub Bhubaneswar 85,Bhubaneswar,Odisha,East,Express,2026-10-28,Active
+26,RetailHub Pune 26,Pune,Maharashtra,West,Express,2020-02-06,Inactive
+74,RetailHub Patna 74,Patna,Bihar,East,Mall,2024-01-15,Inactive
+50,RetailHub Delhi 50,Delhi,Delhi,North,Mall,2018-04-26,Inactive
+14,RetailHub Patna 14,Patna,Bihar,East,Standalone,2024-05-31,Active
+25,RetailHub Chandigarh 25,Chandigarh,Chandigarh,North,Standalone,2019-09-09,Active
+4,RetailHub Lucknow 4,Lucknow,Uttar Pradesh,North,Standalone,2022-04-07,Active
+18,RetailHub Pune 18,Pune,Maharashtra,West,Mall,2024-12-17,Inactive
+39,RetailHub Delhi 39,Delhi,Delhi,North,Express,2022-02-23,Active
+9,RetailHub Patna 9,Patna,Bihar,East,Standalone,2025-06-05,Inactive
+82,RetailHub Chandigarh 82,Chandigarh,Chandigarh,North,Mall,2025-08-26,Active
+7,RetailHub Mumbai 7,Mumbai,Maharashtra,West,Standalone,2025-09-05,Active
+68,RetailHub Ahmedabad 68,Ahmedabad,Gujarat,West,Mall,2025-09-14,Inactive
+37,RetailHub Jaipur 37,Jaipur,Rajasthan,North,Express,2022-01-28,Active
+92,RetailHub Delhi 92,Delhi,Delhi,North,Express,2020-07-07,Inactive
+84,RetailHub Chennai 84,Chennai,Tamil Nadu,South,Express,2022-11-04,Active
+55,RetailHub Bhopal 55,Bhopal,Madhya Pradesh,Central,Mall,2024-08-09,Active
+51,RetailHub Delhi 51,Delhi,Delhi,North,Express,2020-03-16,Inactive
+71,RetailHub Chennai 71,Chennai,Tamil Nadu,South,Express,2019-02-19,Active
+47,RetailHub Kochi 47,Kochi,Kerala,South,Standalone,2020-07-11,Inactive
+84,RetailHub Chennai 84,Chennai,Tamil Nadu,South,Express,2022-11-04,Active
+62,RetailHub Pune 62,Pune,Maharashtra,West,Express,2021-08-23,Inactive
+54,RetailHub Chennai 54,Chennai,Tamil Nadu,South,Mall,2023-07-17,Active
+98,RetailHub Hyderabad 98,Hyderabad,Telangana,South,Standalone,2021-03-17,Active
+42,RetailHub Chandigarh 42,Chandigarh,Chandigarh,North,Mall,2022-02-24,Inactive
+59,RetailHub Pune 59,Pune,Maharashtra,West,Standalone,2019-06-28,Active
+49,RetailHub Jaipur 49,Jaipur,Rajasthan,North,Express,2024-06-09,Inactive
+91,RetailHub Jaipur 91,Jaipur,Rajasthan,North,Standalone,2027-08-13,Inactive
+58,RetailHub Chennai 58,Chennai,Tamil Nadu,South,Express,2020-10-21,Active
+76,RetailHub Lucknow 76,Lucknow,Uttar Pradesh,North,Standalone,2022-11-17,Inactive
+33,RetailHub Chandigarh 33,Chandigarh,Chandigarh,North,Standalone,2025-04-03,Inactive
+99,RetailHub Jaipur 99,Jaipur,Rajasthan,North,Express,2021-05-27,Active
+60,RetailHub Bhopal 60,Bhopal,Madhya Pradesh,Central,Express,2025-12-14,Active
+64,RetailHub Bhopal 64,Bhopal,Madhya Pradesh,Central,Mall,2020-06-29,Active
+89,RetailHub Lucknow 89,Lucknow,Uttar Pradesh,North,Standalone,2022-06-27,Active
+38,RetailHub Mumbai 38,Mumbai,Maharashtra,West,Express,2022-04-26,Active
+30,RetailHub Chennai 30,Chennai,Tamil Nadu,South,Mall,2021-03-27,Active
+94,RetailHub Mumbai 94,Mumbai,Maharashtra,West,Express,2020-09-29,Inactive
+2,RetailHub Bhubaneswar 2,Bhubaneswar,Odisha,East,Mall,2022-11-28,Inactive
+53,RetailHub Chennai 53,Chennai,Tamil Nadu,South,Standalone,2018-10-10,Active
+22,RetailHub Pune 22,Pune,Maharashtra,West,Mall,2023-03-02,Inactive
+3,RetailHub Bhopal 3,Bhopal,Madhya Pradesh,Central,Mall,2023-06-15,Active
+24,RetailHub Bhopal 24,Bhopal,Madhya Pradesh,Central,Mall,2025-07-11,Active
+88,RetailHub Chandigarh 88,Chandigarh,Chandigarh,North,Express,2024-12-09,Active
+96,RetailHub Pune 96,Pune,Maharashtra,West,Mall,2025-09-27,Active
+75,RetailHub Bhopal 75,Bhopal,Madhya Pradesh,Central,Mall,2019-03-18,Inactive
+87,RetailHub Bhopal 87,Bhopal,Madhya Pradesh,Central,Standalone,2021-06-24,Active
+83,RetailHub Delhi 83,Delhi,Delhi,North,Mall,2024-01-29,Active
+21,RetailHub Bhopal 21,Bhopal,Madhya Pradesh,Central,Express,2019-09-06,Inactive
+61,RetailHub Ahmedabad 61,Ahmedabad,Gujarat,West,Standalone,2025-07-20,Active
+72,RetailHub Bhopal 72,Bhopal,Madhya Pradesh,Central,Standalone,2025-10-23,Active
+15,RetailHub Kolkata 15,Kolkata,West Bengal,East,Express,2024-11-23,Inactive
+93,RetailHub Chandigarh 93,Chandigarh,Chandigarh,North,Mall,2024-04-28,Inactive
+52,RetailHub Bhopal 52,Bhopal,Madhya Pradesh,Central,Mall,2023-01-11,Inactive
+71,RetailHub Chennai 71,Chennai,Tamil Nadu,South,Express,2019-02-19,Active
